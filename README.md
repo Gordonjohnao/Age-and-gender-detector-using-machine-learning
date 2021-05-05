@@ -21,9 +21,9 @@ In this Python Project, I used Deep Learning to accurately identify the gender a
 <h5 style="color:blue">The CNN Architecture</h5>
 The convolutional neural network for this python project has 3 convolutional layers:
 
-Convolutional layer; 96 nodes, kernel size 7
-Convolutional layer; 256 nodes, kernel size 5
-Convolutional layer; 384 nodes, kernel size 3
+<li>Convolutional layer; 96 nodes, kernel size 7 </li>
+<li>Convolutional layer; 256 nodes, kernel size 5</li>
+<li>Convolutional layer; 384 nodes, kernel size 3</li>
 It has 2 fully connected layers, each with 512 nodes, and a final output layer of softmax type.
 
 To go about the python project, the program will:
